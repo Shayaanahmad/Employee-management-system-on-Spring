@@ -1,0 +1,1 @@
+This project uses the Spring to create an employee management system where we can add, delete, update an employee working in an organisation. It uses MySql workbench and Postman as their database management system.It uses the CRUD operations and designs the website using html,css javascript and ajax.
